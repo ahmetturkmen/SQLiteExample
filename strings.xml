@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteExample</string>
+    <string name="name_textView">Name</string>
+    <string name="surname_textView">Surname</string>
+    <string name="tckno">ID Number</string>
+    <string name="address_textView">Address</string>
+    <string name="phone_textView">Phone</string>
+
+</resources>
